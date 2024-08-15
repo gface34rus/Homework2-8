@@ -42,7 +42,7 @@ public class Employee {
 
     @Override
     public int hashCode() {
-        return id; // Use employee ID as hash code
+        return id;
     }
 
     @Override
